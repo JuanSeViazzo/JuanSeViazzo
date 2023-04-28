@@ -1,6 +1,6 @@
 - 👋 Hola - soy @JuanSeViazzo
-- 👀 Estoy interesado en ... .NET - C# + JAVA + POO + JS HTML CCS + ANGULAR + NODE.JS
-- 🌱 Actualmente estoy estudiando ...PROGRAMACION EN UTN FRA - PLATZI - UDEMY
-- 💞️ Quisiera contribuir en trabajos de ...BACK END AND FRONT END
+- 👀 Estoy interesado en ... .NET - C# + REACT + JS + TYPESCRIPT
+- 🌱 DEV .NET - ALUMNO DE UTN FRA Y PLATZI 
+- 💞️ AMO SER BACK END DEVELOPER.
 - 📫 Me puedes contactar ... juansviazzo@gmail.com
 
